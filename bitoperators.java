@@ -55,7 +55,7 @@ public class bitoperators {
          * when it is update a bit to 1: its a set operation
          * When it is update a bit to 0: its a clear operation
          */
-        System.out.println("Enter a number:");
+        System.out.println("Enter a demimal number:");
         int bit = sc.nextInt();
         System.out.println("Enter 0 to update the bit to 0 or 1 to update the bit to 1:");
         int op = sc.nextInt();
